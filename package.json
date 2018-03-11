@@ -2,6 +2,7 @@
   "name": "connectus",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kjaspreet.github.io/connectusapp",
   "dependencies": {
     "firebase": "^4.9.1",
     "gh-pages": "^1.1.0",
